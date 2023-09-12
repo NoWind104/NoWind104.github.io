@@ -4,16 +4,16 @@
 
 # Site
 title: Hexo
-subtitle: ''
-description: ''
+subtitle: 'test'
+description: 'test'
 keywords:
 author: John Doe
-language: en
-timezone: ''
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://nowind104.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
