@@ -8,9 +8,9 @@ rss: /atom.xml
 home:
   style: default           # default, detail
 
-favicon: /assets/logo.ico               # Path to the custom favicon (e.g. "/favicon.png" if your favicon file is located at /source/favicon.png)
+favicon: /assets/logo.ico               # 网页图标  #Path to the custom favicon (e.g. "/favicon.png" if your favicon file is located at /source/favicon.png)
 
-# Banner
+#网页背景   #Banner
 banner:
   enable: true            # Display banner
   url: /assets/banner.jpg
@@ -37,10 +37,10 @@ recent_posts_limits: 5
 categories:
   max_depth:              # Maximum depth of categories displayed in the widget (null for unlimited)
 
-# Personal info
+#个人信息 Personal info
 avatar: /assets/avatar.jpg
 author: 忤风
-subtitle: 学习ing
+subtitle: Stay Hungry, Stay Foolish.
 links:
   - name: Twitter
     icon: fa-brands fa-twitter      # Find icon codes at https://fontawesome.com/search
